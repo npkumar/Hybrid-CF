@@ -1,0 +1,158 @@
+#[0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0] : 287.0
+
+n = 1x : 50
+{'458': 4.0, '748': 5.0, '313': 5.0, '620': 3.0, '597': 4.0}
+Iteration :0 User: 164
+Calculating Recommendation for user: 164 ...
+Generating item recommendations for user: 164
+[4.0, 5.0, 5.0, 3.0, 4.0]
+[0.40198429783936973, 0.18834114998554163, 0.2305392701413509, 1.8074685574067453, 4.0]
+{'216': 2.0, '258': 5.0, '174': 1.0, '64': 5.0, '172': 1.0}
+Iteration :1 User: 153
+Calculating Recommendation for user: 153 ...
+Generating item recommendations for user: 153
+[2.0, 5.0, 1.0, 5.0, 1.0]
+[0.7040800669865126, 1.5458242546253143, 2.31, 1.6838016706069645, 5.0]
+{'191': 3.0, '197': 5.0, '318': 5.0, '199': 5.0, '179': 1.0}
+Iteration :2 User: 212
+Calculating Recommendation for user: 212 ...
+Generating item recommendations for user: 212
+[3.0, 5.0, 5.0, 5.0, 1.0]
+[0.10695188065177241, 0.7594326153187954, 0.9638507342499212, 2.8499292645161916, 0.6095579166106466]
+{'216': 4.0, '763': 2.0, '662': 2.0, '210': 5.0, '211': 5.0}
+Iteration :3 User: 210
+Calculating Recommendation for user: 210 ...
+Generating item recommendations for user: 210
+[4.0, 2.0, 2.0, 5.0, 5.0]
+[0.7875739676260833, 1.1814144839798693, 0.4467112084008442, 1.4489823182828192, 1.2400000000000002]
+{'705': 4.0, '310': 3.0, '215': 5.0, '199': 5.0, '596': 3.0}
+Iteration :4 User: 211
+Calculating Recommendation for user: 211 ...
+Generating item recommendations for user: 211
+[4.0, 3.0, 5.0, 5.0, 3.0]
+[0.870926495963241, 0.03735219787293609, 1.1514684793114447, 0.5528493932144407, 3.0]
+{'216': 3.0, '217': 5.0, '665': 2.0, '210': 4.0, '1303': 3.0}
+Iteration :5 User: 158
+Calculating Recommendation for user: 158 ...
+Generating item recommendations for user: 158
+[3.0, 5.0, 2.0, 4.0, 3.0]
+[0.011918216758510347, 0.6366735848117724, 1.647306590800012, 0.796256904372314, 0.5345933777548462]
+{'762': 3.0, '393': 4.0, '153': 5.0, '663': 5.0, '70': 3.0}
+Iteration :6 User: 196
+Calculating Recommendation for user: 196 ...
+Generating item recommendations for user: 196
+[3.0, 4.0, 5.0, 5.0, 3.0]
+[1.057960057898863, 0.840242074992005, 0.4931229909470791, 0.5771874424599868, 5.0]
+{'216': 4.0, '25': 5.0, '23': 5.0, '137': 5.0, '211': 4.0}
+Iteration :7 User: 315
+Calculating Recommendation for user: 315 ...
+Generating item recommendations for user: 315
+[4.0, 5.0, 5.0, 5.0, 4.0]
+[0.7245288834096684, 0.14541298696511795, 0.8613418807863429, 1.0175914204923324, 0.4208996748086342]
+{'748': 4.0, '153': 4.0, '315': 5.0, '316': 5.0, '66': 5.0}
+Iteration :8 User: 333
+Calculating Recommendation for user: 333 ...
+Generating item recommendations for user: 333
+[4.0, 4.0, 5.0, 5.0, 5.0]
+[0.8666762380909656, 0.8851075103656258, 1.2178804589788395, 1.2628584251767156, 4.0]
+{'111': 2.0, '258': 5.0, '1160': 4.0, '276': 2.0, '1265': 3.0}
+Iteration :9 User: 192
+Calculating Recommendation for user: 192 ...
+Generating item recommendations for user: 192
+[2.0, 5.0, 4.0, 2.0, 3.0]
+[1.5602939326090444, 1.013094881338462, 5.0, 2.0, 3.0]
+{'762': 4.0, '763': 2.0, '496': 1.0, '137': 5.0, '218': 3.0}
+[4.2, 2.8, 3.8, 3.6, 4.0, 3.4, 4.0, 4.6, 4.6, 3.2]
+[1.3256666550746015, 2.248741198443758, 1.0579444822694655, 1.0209363956579232, 1.1225193132724125, 0.725349734899491, 1.5937025132595868, 0.6339549692924191, 1.6465045265224294, 2.514677762789501]
+
+n = 200
+{'458': 4.0, '748': 5.0, '313': 5.0, '620': 3.0, '597': 4.0}
+Iteration :0 User: 164
+Generating item recommendations for user: 164
+[1.0, 4.0, 5.0, 5.0, 4.0]
+{'216': 2.0, '258': 5.0, '174': 1.0, '64': 5.0, '172': 1.0}
+Iteration :1 User: 153
+Generating item recommendations for user: 153
+[2.0, 5.0, 1.0, 5.0, 1.0]
+{'191': 3.0, '197': 5.0, '318': 5.0, '199': 5.0, '179': 1.0}
+Iteration :2 User: 212
+Generating item recommendations for user: 212
+[3.0, 5.0, 5.0, 5.0, 1.0]
+{'216': 4.0, '763': 2.0, '662': 2.0, '210': 5.0, '211': 5.0}
+Iteration :3 User: 210
+Generating item recommendations for user: 210
+[4.0, 2.0, 2.0, 5.0, 5.0]
+{'705': 4.0, '310': 3.0, '215': 5.0, '199': 5.0, '596': 3.0}
+Iteration :4 User: 211
+Generating item recommendations for user: 211
+[2.0, 4.0, 3.0, 5.0, 3.0]
+{'216': 3.0, '217': 5.0, '665': 2.0, '210': 4.0, '1303': 3.0}
+Iteration :5 User: 158
+Generating item recommendations for user: 158
+[1.4285714285714288, 1.0, 2.0, 3.0, 4.0]
+{'762': 3.0, '393': 4.0, '153': 5.0, '663': 5.0, '70': 3.0}
+Iteration :6 User: 196
+Generating item recommendations for user: 196
+[0.0, 4.0, 5.0, 5.0, 3.0]
+{'216': 4.0, '25': 5.0, '23': 5.0, '137': 5.0, '211': 4.0}
+Iteration :7 User: 315
+Generating item recommendations for user: 315
+[0.0, 5.0, 5.0, 5.0, 4.0]
+{'748': 4.0, '153': 4.0, '315': 5.0, '316': 5.0, '66': 5.0}
+Iteration :8 User: 333
+Generating item recommendations for user: 333
+[4.0, 4.0, 5.0, 5.0, 5.0]
+{'111': 2.0, '258': 5.0, '1160': 4.0, '276': 2.0, '1265': 3.0}
+Iteration :9 User: 192
+Generating item recommendations for user: 192
+[0.5, 2.0, 5.0, 4.0, 2.0]
+{'762': 4.0, '763': 2.0, '496': 1.0, '137': 5.0, '218': 3.0}
+[3.8, 2.8, 3.8, 3.6, 3.4, 2.2857142857142856, 3.4, 3.8, 4.6, 2.7]
+
+n = 300
+
+{'458': 4.0, '748': 5.0, '313': 5.0, '620': 3.0, '597': 4.0}
+Iteration :0 User: 164
+Generating item recommendations for user: 164
+[0.5, 4.0, 5.0, 5.0, 4.0]
+{'216': 2.0, '258': 5.0, '174': 1.0, '64': 5.0, '172': 1.0}
+Iteration :1 User: 153
+Generating item recommendations for user: 153
+[2.0, 5.0, 1.0, 5.0, 1.0]
+{'191': 3.0, '197': 5.0, '318': 5.0, '199': 5.0, '179': 1.0}
+Iteration :2 User: 212
+Generating item recommendations for user: 212
+[3.0, 5.0, 5.0, 5.0, 1.0]
+{'216': 4.0, '763': 2.0, '662': 2.0, '210': 5.0, '211': 5.0}
+Iteration :3 User: 210
+Generating item recommendations for user: 210
+[0.0, 2.0, 2.0, 5.0, 5.0]
+{'705': 4.0, '310': 3.0, '215': 5.0, '199': 5.0, '596': 3.0}
+Iteration :4 User: 211
+Generating item recommendations for user: 211
+[2.0, 2.0, 4.0, 5.0, 3.0]
+{'216': 3.0, '217': 5.0, '665': 2.0, '210': 4.0, '1303': 3.0}
+Iteration :5 User: 158
+Generating item recommendations for user: 158
+[0.9795918367346932, 1.3333333333333335, 1.75, 0.0, 4.0]
+{'762': 3.0, '393': 4.0, '153': 5.0, '663': 5.0, '70': 3.0}
+Iteration :6 User: 196
+Generating item recommendations for user: 196
+[0.5, 4.0, 5.0, 5.0, 3.0]
+{'216': 4.0, '25': 5.0, '23': 5.0, '137': 5.0, '211': 4.0}
+Iteration :7 User: 315
+Generating item recommendations for user: 315
+[0.0, 5.0, 5.0, 5.0, 4.0]
+{'748': 4.0, '153': 4.0, '315': 5.0, '316': 5.0, '66': 5.0}
+Iteration :8 User: 333
+Generating item recommendations for user: 333
+[4.0, 4.0, 5.0, 5.0, 5.0]
+{'111': 2.0, '258': 5.0, '1160': 4.0, '276': 2.0, '1265': 3.0}
+Iteration :9 User: 192
+Generating item recommendations for user: 192
+[0.741935483870968, 2.0, 5.0, 4.0, 2.0]
+{'762': 4.0, '763': 2.0, '496': 1.0, '137': 5.0, '218': 3.0}
+[3.7, 2.8, 3.8, 2.8, 3.2, 1.6125850340136054, 3.5, 3.8, 4.6, 2.7483870967741937]
+[]
+
+n = 400
